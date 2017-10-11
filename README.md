@@ -5,4 +5,4 @@ A dynamic web application designed and developed for the use of an insurance com
 specifically deals in the vehicle insurance sector.
 
 ## Technologies Used
-PHP, JavaScript, MySQL, Bootstrap, HTML5, CSS3
+PHP, MySQL, JavaScript, jQuery, Bootstrap, HTML5, CSS3
