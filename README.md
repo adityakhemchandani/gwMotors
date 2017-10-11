@@ -1,4 +1,4 @@
-## Demo: ec2-54-172-141-207.compute-1.amazonaws.com/gwmotors/home.php
+## Demo: http://ec2-54-172-141-207.compute-1.amazonaws.com/gwmotors/home.php
 
 ## GW Motors
 A dynamic web application designed and developed for the use of an insurance company which
